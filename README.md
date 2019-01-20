@@ -9,7 +9,7 @@ npm install
 ```
 
 ### Build and watch the project
-To start watching and compile the app, run form the terminal:
+To start watching and compile the app run:
 
 ```shell
 npm run webpack
